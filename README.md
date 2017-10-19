@@ -28,3 +28,5 @@ http://www.effecthub.com/home/happening
 http://www.runoob.com/w3cnote/android-tutorial-intro.html
 
 ---
+//JAVA入门学习网站
+http://www.runoob.com/java/java-environment-setup.html
