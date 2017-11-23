@@ -36,3 +36,18 @@ http://www.runoob.com/java/java-environment-setup.html
 //cocos引擎官网
 
 http://www.cocos.com/download
+
+---
+//阿里应用分发开放平台
+
+http://open.uc.cn/
+
+---
+//4399开放平台
+
+http://open.4399.cn/user/register/step4
+
+---
+//PC6提交平台
+
+http://open.pc6.com/user/identify
