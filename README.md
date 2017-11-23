@@ -57,4 +57,4 @@ http://open.pc6.com/user/identify
 
 http://dev.mumayi.com/index/regperfect
 
-密码是QQ号
+密码是QQ密码，用户名：刘翰男
