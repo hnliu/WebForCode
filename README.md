@@ -58,3 +58,8 @@ http://open.pc6.com/user/identify
 http://dev.mumayi.com/index/regperfect
 
 密码是QQ密码，用户名：刘翰男
+
+---
+//百度移动开放平台
+
+http://app.baidu.com/user/register
