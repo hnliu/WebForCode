@@ -63,3 +63,9 @@ http://dev.mumayi.com/index/regperfect
 //百度移动开放平台
 
 http://app.baidu.com/user/register
+
+---
+//3987统一下载站
+
+https://open.3987.com/aptitude
+密码是QQ密码，用户名：liuhannan
